@@ -1,0 +1,11 @@
+.link{
+    font-size: 50px;
+    color: violet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.link1{
+    font-size: 30px;
+}
